@@ -1,0 +1,13 @@
+# Folders
+.idea
+.venv
+
+# Project files
+poetry.lock
+pyproject.toml
+
+# Cache
+**/__pycache__/
+
+# This project is private for now
+conduit/**/*
